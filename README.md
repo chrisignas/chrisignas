@@ -10,6 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/chrisignas/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chrisignas/azure-network-protocols)
   - [Configuring DNS settings within Azure VMs](https://github.com/chrisignas/configure-dns)
+  - [Network File Shares and Permissions within Azure VMs](https://github.com/chrisignas/configure-network-file-shares-and-permissions)
 
 <h2>🤳Connect with me:</h2>
 
