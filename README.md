@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure Sentinal SIEM (honeypot)</b>
   - [Setup a SIEM in Microsoft Azure](https://github.com/chrisignas/setup-microsoft-azure-siem)
-  - [Setup an Active Directory Environment]
+  - [Setup an Active Directory Environment](https://github.com/chrisignas/setup-active-directory-environment)
   - [Create a File Integrity Monitor (FIM)]
   - [Setup a Vulnerability Management Lab]
   - [Build a Simple REST API]
