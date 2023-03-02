@@ -6,7 +6,7 @@
   - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/chrisignas/setup-azure-sentinel)
   - [Setup an Active Directory Environment](https://github.com/chrisignas/setup-ad-environment)
   - [Create a File Integrity Monitor (FIM)](https://github.com/chrisignas/create-fim)
-  - [Setup a Vulnerability Management Lab]
+  - [Setup a Vulnerability Management Lab](https://github.com/chrisignas/setup-vulnerability-management-lab)
   - [Build a Simple REST API]
 
 <h2>👨‍💻 Information Technology Projects:</h2>
