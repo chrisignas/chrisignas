@@ -3,6 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure Sentinal SIEM (honeypot)</b>
+  - [Setup a SIEM in Microsoft Azure]
+  - [Setup an Active Directory Environment]
+  - [Create a File Integrity Monitor (FIM)]
+  - [Setup a Vulnerability Management Lab]
+  - [Build a Simple REST API]
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
