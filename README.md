@@ -7,7 +7,7 @@
   - [Setup an Active Directory Environment](https://github.com/chrisignas/setup-ad-environment)
   - [Create a File Integrity Monitor (FIM)](https://github.com/chrisignas/create-fim)
   - [Setup a Vulnerability Management Lab](https://github.com/chrisignas/setup-vulnerability-management-lab)
-  - [Build a Simple REST API]
+  - [Build a Simple REST API](https://github.com/chrisignas/build-rest-api)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
