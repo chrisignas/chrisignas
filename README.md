@@ -1,5 +1,9 @@
 <h1>Hello there, I'm Chris, an <a href="https://www.linkedin.com/in/christopherignas/">IT and Cybersecurity Professional</a>☺</h1>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Microsoft Azure Sentinal SIEM (honeypot)</b>
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
