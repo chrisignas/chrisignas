@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Microsoft Azure Sentinal SIEM (honeypot)</b>
+- <b>Microsoft Azure</b>
   - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/chrisignas/setup-azure-sentinel)
   - [Create a File Integrity Monitor (FIM)](https://github.com/chrisignas/create-fim)
   - [Setup a Vulnerability Management Lab](https://github.com/chrisignas/setup-vulnerability-management-lab)
