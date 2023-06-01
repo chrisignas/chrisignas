@@ -5,7 +5,6 @@
 - <b>Microsoft Azure</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/chrisignas/Azure-Honeynet-SOC)                        
   - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/chrisignas/setup-azure-sentinel)
-  - [Setup a Vulnerability Management Lab](https://github.com/chrisignas/setup-vulnerability-management-lab)
   - [Create a File Integrity Monitor (FIM)](https://github.com/chrisignas/create-fim)
   - [Build a Simple REST API](https://github.com/chrisignas/build-rest-api)
 
