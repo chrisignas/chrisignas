@@ -1,4 +1,4 @@
-<h1>Hello there, I'm Chris, an <a href="https://www.linkedin.com/in/christopherignas/">IT and Cybersecurity Professional</a> 💻🔑🛡</h1>
+<h1>Hello there, I'm Chris, an <a href="https://www.linkedin.com/in/christopherignas/">Cybersecurity Professional and Developer</a> 💻🔑🛡</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
